@@ -1,0 +1,117 @@
+p{
+    color: green;
+    font-size: 40px;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin-top: 20px;
+    display: none;
+}
+
+.box2{
+    width: 100px;
+    height: 100px;
+    background: green;
+    margin-top: 20px;
+    display: none;
+}
+
+.box3{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    margin-top: 20px;
+    display: none;
+}
+
+.khan4{
+    background: violet;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.khan5{
+    background: lightblue;
+    padding: 20px;
+    counter-reset: #000;
+    text-align: center;
+    font-size: 18px;
+    display: none;
+}
+
+.khan6{
+    background: rgb(146, 133, 146);
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    
+}
+
+.khan7{
+    background: rgb(84, 125, 212);
+    padding: 20px;
+    counter-reset: #000;
+    text-align: center;
+    font-size: 18px;
+    width: 200px;
+    position: absolute;
+}
+
+.khan8{
+    background: rgb(177, 62, 129);
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 100px;
+}
+
+.khan9{
+    background: rgb(47, 202, 230);
+    padding: 20px;
+    counter-reset: #000;
+    text-align: center;
+    font-size: 18px;
+    display:none;
+}
+
+.khan10{
+    background: rgb(173, 125, 236);
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+.khan11{
+    background: rgb(47, 202, 230);
+    padding: 20px;
+    counter-reset: #000;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.khan12{
+    background: rgb(181, 49, 207);
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+.khan13{
+    background: rgb(24, 185, 132);
+    padding: 20px;
+    counter-reset: #000;
+    text-align: center;
+    font-size: 18px;
+    
+}
